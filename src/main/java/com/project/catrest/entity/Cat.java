@@ -1,4 +1,4 @@
-package com.project.catrest.entry;
+package com.project.catrest.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

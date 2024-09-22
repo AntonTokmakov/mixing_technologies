@@ -1,7 +1,7 @@
 package com.project.catrest.controller;
 
 import com.project.catrest.DTO.CatDto;
-import com.project.catrest.entry.Cat;
+import com.project.catrest.entity.Cat;
 import com.project.catrest.repository.CatRepository;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;

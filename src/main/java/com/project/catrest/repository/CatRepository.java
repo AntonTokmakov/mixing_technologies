@@ -1,6 +1,6 @@
 package com.project.catrest.repository;
 
-import com.project.catrest.entry.Cat;
+import com.project.catrest.entity.Cat;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
