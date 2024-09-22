@@ -4,10 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-DogController.java
-KafkaController.java
-kafka/
-DogRepository.java
+#DogController.java
+#KafkaController.java
+#kafka/
+#DogRepository.java
 ### STS ###
 .apt_generated
 .classpath
